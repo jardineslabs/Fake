@@ -30,6 +30,7 @@
         
         <link rel="stylesheet" type="text/css" href="recursos/components/My Style.css">
         <link rel="stylesheet" type="text/css" class="ui" href="recursos/semantic.min.css">
+        <script src="recursos/js/jquery-3.3.1.min.js"></script>
         <title>JSP Page</title>
     </head>
     <body>
