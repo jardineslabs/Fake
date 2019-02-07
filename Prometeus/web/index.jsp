@@ -29,6 +29,7 @@
         
         
         <link rel="stylesheet" type="text/css" href="recursos/components/My Style.css">
+        <link rel="stylesheet" type="text/css" class="ui" href="recursos/semantic.min.css">
         <title>JSP Page</title>
     </head>
     <body>
