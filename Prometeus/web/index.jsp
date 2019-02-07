@@ -26,17 +26,19 @@
         <link rel="stylesheet" type="text/css" href="recursos/components/segment.css">
         <link rel="stylesheet" type="text/css" href="recursos/components/dropdown.css">
         <link rel="stylesheet" type="text/css" href="recursos/components/icon.css">
-        
-        
-        <link rel="stylesheet" type="text/css" href="recursos/components/My Style.css">
+
+
+        <link rel="stylesheet" type="text/css" href="recursos/css/myStyle.css">
         <link rel="stylesheet" type="text/css" class="ui" href="recursos/semantic.min.css">
-        <script src="recursos/js/jquery-3.3.1.min.js"></script>
-        <title>JSP Page</title>
+        <link rel="stylesheet" type="text/css" class="ui" href="recursos/css/default.css">
+
+        <title>Inicio</title>
     </head>
     <body>
         <jsp:include page="header.jsp"></jsp:include>
-        <jsp:include page="footer.jsp"></jsp:include>        
-        
- </div>
+        <jsp:include page="footer.jsp"></jsp:include>  
+        <script src="recursos/js/jquery-3.3.1.min.js"></script>
+        <script src="/static/dist/semantic-ui/semantic.min.js"></script>
+        <script src="recursos/js/mySite.js"></script>
     </body>
 </html>
