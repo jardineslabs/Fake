@@ -26,10 +26,14 @@
         <link rel="stylesheet" type="text/css" href="recursos/components/segment.css">
         <link rel="stylesheet" type="text/css" href="recursos/components/dropdown.css">
         <link rel="stylesheet" type="text/css" href="recursos/components/icon.css">
+        
+        
+        <link rel="stylesheet" type="text/css" href="recursos/components/My Style.css">
         <title>JSP Page</title>
     </head>
     <body>
         <jsp:include page="header.jsp"></jsp:include>
+           
         <jsp:include page="footer.jsp"></jsp:include>        
     </body>
 </html>
