@@ -1,7 +1,7 @@
         <div class="ui fixed inverted menu">
             <div class="ui container">
                 <a href="#" class="header item">
-                    <img class="logo" src="assets/images/logo.png">
+                    <img class="logo" src="recursos/imagenes/lord.jpg">
                     Project Name
                 </a>
                 <a href="#" class="item">Home</a>
