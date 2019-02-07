@@ -38,7 +38,7 @@
         <jsp:include page="header.jsp"></jsp:include>
         <jsp:include page="footer.jsp"></jsp:include>  
         <script src="recursos/js/jquery-3.3.1.min.js"></script>
-        <script src="/static/dist/semantic-ui/semantic.min.js"></script>
+        <script src="recursos/semantic.min.js"></script>
         <script src="recursos/js/mySite.js"></script>
     </body>
 </html>
