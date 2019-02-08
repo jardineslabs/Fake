@@ -23,7 +23,7 @@
     <a class="item">Series</a>
     <a class="item">Iniciar Sesion</a>
 </div>
-<!--Page Contents-->
+Page Contents
 <div class="pusher">
     <div class="ui inverted vertical masthead center aligned segment">
         <div class="ui container">

@@ -8,37 +8,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-        <title>Fixed Menu Example - Semantic</title>
-
-        <link rel="stylesheet" type="text/css" href="recursos/components/reset.css">
-        <link rel="stylesheet" type="text/css" href="recursos/components/site.css">
-
-        <link rel="stylesheet" type="text/css" href="recursos/components/container.css">
-        <link rel="stylesheet" type="text/css" href="recursos/components/grid.css">
-        <link rel="stylesheet" type="text/css" href="recursos/components/header.css">
-        <link rel="stylesheet" type="text/css" href="recursos/components/image.css">
-        <link rel="stylesheet" type="text/css" href="recursos/components/menu.css">
-
-        <link rel="stylesheet" type="text/css" href="recursos/components/divider.css">
-        <link rel="stylesheet" type="text/css" href="recursos/components/list.css">
-        <link rel="stylesheet" type="text/css" href="recursos/components/segment.css">
-        <link rel="stylesheet" type="text/css" href="recursos/components/dropdown.css">
-        <link rel="stylesheet" type="text/css" href="recursos/components/icon.css">
-
-
-        <link rel="stylesheet" type="text/css" href="recursos/css/myStyle.css">
-        <link rel="stylesheet" type="text/css" class="ui" href="recursos/semantic.min.css">
-        <link rel="stylesheet" type="text/css" class="ui" href="recursos/css/default.css">
-
-        <title>Inicio</title>
     </head>
     <body>
         <jsp:include page="header.jsp"></jsp:include>
+        <jsp:include page="portada.jsp"></jsp:include>
         <jsp:include page="footer.jsp"></jsp:include>  
-        <script src="recursos/js/jquery-3.3.1.min.js"></script>
-        <script src="recursos/semantic.min.js"></script>
-        <script src="recursos/js/mySite.js"></script>
+            <script src="recursos/js/jquery-3.3.1.min.js"></script>            
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+        <script src="recursos/js/jquery.flexslider.js"></script>
     </body>
 </html>
