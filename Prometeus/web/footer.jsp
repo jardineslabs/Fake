@@ -26,9 +26,9 @@
                         <div class="card block-info text-center">
                             <div class="card-body pt-0">
                                 <h2 class="uppercase h2">Booking</h2>
-                                <p class="mb-0"><em class=" h5 mb-1 uppercase swap-color">Benaissa Ghrib</em>
-                                    <br> T+(513)352-3209
-                                    <br> booking@mousiqua.net
+                                <p class="mb-0"><em class=" h5 mb-1 uppercase swap-color">PlayZone</em>
+                                    <br> Descargar juegos para PC
+                                    <br> PlayZone v. 0.0.1 ©
                                 </p>
                             </div>
                         </div>
@@ -37,9 +37,11 @@
                         <div class="card block-info text-center">
                             <div class="card-body pt-0">
                                 <h2 class="uppercase h2">Press</h2>
-                                <p class="mb-0"><em class=" h5 mb-1 uppercase swap-color">Zakaria Kalal</em>
-                                    <br> T+(513)352-3209
-                                    <br> press@mousiqua.net
+                                <p class="mb-0"><em class=" h5 mb-1 uppercase swap-color">Nuestros Conenidos</em><br>
+                                    <a href="#">Juegos para PC</a><br>
+                                    <a href="#">Anime HD</a><br>
+                                    <a href="#">Peliculas</a><br>
+                                    <a href="#">Series</a>
                                 </p>
                             </div>
                         </div>
@@ -48,9 +50,8 @@
                         <div class="card block-info text-center">
                             <div class="card-body pt-0">
                                 <h2 class="uppercase h2">info</h2>
-                                <p class=" mb-0"><em class="h5 mb-1 uppercase swap-color">Youssef Ait</em>
-                                    <br> T+(513)352-3209
-                                    <br> info@mousiqua.net
+                                <p class=" mb-0"><em class="h5 mb-1 uppercase swap-color">Aviso Importante</em>
+                                    <br>Ningun archivo de descarga se encuentra alojado en nuestros servidores
                                 </p>
                             </div>
                         </div>
@@ -59,7 +60,8 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-12">
+            <p class=" mb-2"><em class="h5 mb-1 uppercase swap-color text-center">Nuestras Redes</em>
+            <div class="col-12">                
                 <ul class="block-social colored list-inline text-center mb-5">
                     <li class="list-inline-item">
                         <a href="#" class="hover-effect"> <i class="socicon-facebook"></i> </a>
@@ -89,8 +91,8 @@
         <div class="row justify-content-between align-items-center">
             <div class="col-md-12 ">
                 <div class="block-content pt-5 brd-top">
-                    <p class="mb-0 ">Oumaila Musician Bootstrap Template - <a href="#" class="swap-color underline  mr-2">Privacy Policy</a> <a href="#" class="swap-color underline  mr-2">Terms of Use</a> <a href="#" class="swap-color underline">AdChoices</a>
-                        <br> &copy; 2019 todos los derechos reservados - a product of <em>mutationthemes</em>.
+                    <p class="mb-0 ">PlayZone © - <a href="#" class="swap-color underline  mr-2">Contáctenos</a> <a href="#" class="swap-color underline  mr-2">Términos y Condiciones</a> <a href="#" class="swap-color underline">Politicas de Privacidad</a>
+                        <br> &copy; 2019 todos los derechos reservados.
                     </p>
                 </div>
             </div>
