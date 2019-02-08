@@ -1,31 +1,13 @@
-<section id="contact" class="contact main top bg-secondary">
-    <!--Container-->
-    <div class="container">
-        <!--Row-->
-        <div class="row justify-content-center">
-            <div class="col-12 col-md-10 col-lg-9 ">
-                <div class="block-content text-center gap-one-bottom-md">
-                    <div class="block-title ">
-                        <div class="block-bars">
-                            <img src="recursos/imagenes/plumaroja.png" alt="">
-                        </div>
-                        <h6>PlayZone</h6>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--End row-->
-    </div>
-    <!--End container-->
+<section id="contact" class="contact main top bg-secondaryy">
     <!--Container-->
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-lg-10">
                 <ul class="feature-list feature-list-sm text-center row gap-one-bottom-sm">
                     <li class="col-sm-4  col-lg-4">
-                        <div class="card block-info text-center">
+                        <div class="card block-info text-center" style="background-color: #141414; border-color: #141414;">
                             <div class="card-body pt-0">
-                                <h2 class="uppercase h2">Booking</h2>
+                                <h2 class="uppercase h2"></h2>
                                 <p class="mb-0"><em class=" h5 mb-1 uppercase swap-color">PlayZone</em>
                                     <br> Descargar juegos para PC
                                     <br> PlayZone v. 0.0.1 ©
@@ -34,9 +16,9 @@
                         </div>
                     </li>
                     <li class="col-sm-4  col-lg-4">
-                        <div class="card block-info text-center">
+                        <div class="card block-info text-center"style="background-color: #141414; border-color: #141414;">
                             <div class="card-body pt-0">
-                                <h2 class="uppercase h2">Press</h2>
+                                <h2 class="uppercase h2"></h2>
                                 <p class="mb-0"><em class=" h5 mb-1 uppercase swap-color">Nuestros Conenidos</em><br>
                                     <a href="#">Juegos para PC</a><br>
                                     <a href="#">Anime HD</a><br>
@@ -47,9 +29,9 @@
                         </div>
                     </li>
                     <li class="col-sm-4  col-lg-4">
-                        <div class="card block-info text-center">
+                        <div class="card block-info text-center" style="background-color: #141414; border-color: #141414;" >
                             <div class="card-body pt-0">
-                                <h2 class="uppercase h2">info</h2>
+                                <h2 class="uppercase h2"></h2>
                                 <p class=" mb-0"><em class="h5 mb-1 uppercase swap-color">Aviso Importante</em>
                                     <br>Ningun archivo de descarga se encuentra alojado en nuestros servidores
                                 </p>
@@ -60,7 +42,7 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <p class=" mb-2"><em class="h5 mb-1 uppercase swap-color text-center">Nuestras Redes</em>
+            <p class=" mb-3"><em class="h5 mb-1 uppercase swap-color text-center">Nuestras Redes</em>
             <div class="col-12">                
                 <ul class="block-social colored list-inline text-center mb-5">
                     <li class="list-inline-item">
@@ -85,7 +67,7 @@
     <!--End container-->
 </section>
 <!--End contact section-->
-<footer class="footer pb-5 bg-secondary text-center">
+<footer class="footer pb-5 bg-secondaryy text-center">
     <!--Container-->
     <div class="container">
         <div class="row justify-content-between align-items-center">
@@ -100,5 +82,5 @@
     </div>
     <!--End container-->
 </footer>
-<a class="block-top scroll hover-effect" href="#wrapper"><i class="icon-angle-up"></i></a>
+<a class="block-top scroll hover-effect" href="#wrapper"><i class="fas fa-chevron-up"></i></a>
 </div>

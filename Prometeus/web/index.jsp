@@ -24,6 +24,9 @@
         
         <link href="recursos/socicon/style.css" rel="stylesheet" type="text/css"/>
 
+        <link href="recursos/fontawesome/css/all.min.css" rel="stylesheet" type="text/css"/>
+        <link href="recursos/fontawesome/css/fontawesome.min.css" rel="stylesheet" type="text/css"/>
+        
     </head>
     <body>
         <jsp:include page="header.jsp"></jsp:include>
@@ -41,5 +44,6 @@
         <script src="recursos/js/script.js"></script>
         <script src="recursos/js/popper.min.js"></script>
         <script src="recursos/bs/js/bootstrap.min.js"></script>
+        <script src="recursos/fontawesome/js/fontawesome.min.js"></script>
     </body>
 </html>
