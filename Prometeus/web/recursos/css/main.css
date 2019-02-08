@@ -734,19 +734,19 @@ ol.playlist .col-lg-6 a {
 	margin: 0 1.5rem;
 }
 .block-social.colored li:first-child a {
-	background: #175f9f;
+	background: #395693;
 }
 .block-social.colored li:nth-child(2) a {
-	background: #00c6f8;
+	background: #7C442F;
 }
 .block-social.colored li:nth-child(3) a {
-	background: #df0006;
+	background: #00A8E8;
 }
 .block-social.colored li:nth-child(4) a {
-	background: #ee322a;
+	background: #FF0000;
 }
 .block-social.colored li:last-child a {
-	background: #3c59ef;
+	background: #184575;
 }
 /*End contact section*/
 
