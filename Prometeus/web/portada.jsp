@@ -1,6 +1,4 @@
-<div class="pusher">
-    <div class="ui inverted vertical">
-</div>
+
 <%--<div class="flexslider">
     <ul class="slides">
         <li>
