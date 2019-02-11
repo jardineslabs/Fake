@@ -1,4 +1,4 @@
-<section id="contact" class="contact main top bg-secondaryy">
+<section id="contact" class="contact main top"  style="background-color: #141414; border-color: #141414;" >
     <!--Container-->
     <div class="container">
         <div class="row justify-content-center">
@@ -16,7 +16,7 @@
                         </div>
                     </li>
                     <li class="col-sm-4  col-lg-4">
-                        <div class="card block-info text-center"style="background-color: #141414; border-color: #141414;">
+                        <div class="card block-info text-center" style="background-color: #141414; border-color: #141414;">
                             <div class="card-body pt-0">
                                 <h2 class="uppercase h2"></h2>
                                 <p class="mb-0"><em class=" h5 mb-1 uppercase swap-color">Nuestros Conenidos</em><br>
