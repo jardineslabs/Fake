@@ -20,7 +20,7 @@
         <link href="recursos/css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
         <link href="recursos/css/magnific-popup.css" rel="stylesheet" type="text/css" media="all" />
         <link href="recursos/css/fonts.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="recursos/css/css.css" rel="stylesheet">
+        <link href="recursos/css/css.css" rel="stylesheet" type="text/css" media="all">
         
         <link href="recursos/socicon/style.css" rel="stylesheet" type="text/css"/>
 

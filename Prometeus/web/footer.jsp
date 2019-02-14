@@ -46,7 +46,7 @@
             <div class="col-12">                
                 <ul class="block-social colored list-inline text-center mb-5">
                     <li class="list-inline-item">
-                        <a href="#" class="hover-effect"> <i class="socicon-facebook"></i> </a>
+                        <a href="https://www.facebook.com/" class="hover-effect"> <i class="socicon-facebook"></i> </a>
                     </li>
                     <li class="list-inline-item">
                         <a href="#" class="hover-effect"><i class="socicon-instagram"></i> </a>
